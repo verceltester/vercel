@@ -1,3 +1,3 @@
-const host = "http://127.0.0.1:3000/";
+const host = "https://vercel-api-bice-kappa.vercel.app/";
 
 export default host
